@@ -102,10 +102,10 @@ The **React.js (Next.js) Web Interface** allows users to input an SMS message an
 For more details, check out our presentation: [DefendSMS Presentation](https://bit.ly/DefendSMS)
 
 ## Future Enhancements
-- **Fine-tuning transformer models further** for even better accuracy.
-- **Deploying the model to a cloud-based service** for scalability.
-- **Building a mobile app (React Native)** to enable SMS scanning on mobile devices.
-- **Integrating the system with email detection** for multi-channel phishing prevention.
+- **Use More Types of Data** 
+- **Real-Time Protection** 
+- **Support Different Languages** 
+- **Partner with Telecoms** 
 
 
 
