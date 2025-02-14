@@ -53,8 +53,8 @@ After training, the models were evaluated using:
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 |--------|-----------|-----------|---------|-----------|
-| CNN-LSTM (DistilRoBERTa) | **98.2%** | **96.5%** | **97.8%** | **97.1%** |
-| CNN-LSTM (BERT) | **98.7%** | **97.2%** | **98.3%** | **97.7%** |
+| CNN-LSTM (DistilRoBERTa) | **98.65%** | **95.00%** | **96.20%** | **95.60%** |
+| CNN-LSTM (BERT) | **99.03%** | **96.25%** | **97.47%** | **96.86%** |
 
 ## Website (Next.js Frontend + Flask API)
 The **React.js (Next.js) Web Interface** allows users to input an SMS message and determine whether it is phishing or safe.
