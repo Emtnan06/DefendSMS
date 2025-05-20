@@ -53,15 +53,14 @@ After training, the models were evaluated using:
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 |--------|-----------|-----------|---------|-----------|
-| CNN-LSTM (DistilRoBERTa) | **98.2%** | **96.5%** | **97.8%** | **97.1%** |
-| CNN-LSTM (BERT) | **98.7%** | **97.2%** | **98.3%** | **97.7%** |
+| CNN-LSTM (DistilRoBERTa) | **98.65%** | **95.00%** | **96.20%** | **95.60%** |
+| CNN-LSTM (BERT) | **99.03%** | **96.25%** | **97.47%** | **96.86%** |
 
-## Web Application (Next.js Frontend + Flask API)
+## Website (Next.js Frontend + Flask API)
 The **React.js (Next.js) Web Interface** allows users to input an SMS message and determine whether it is phishing or safe.
 
 ### Frontend Features
 - **User-friendly interface** with a clean design.
-- **Real-time message classification** using the trained model.
 - **Result visualization:** Displays whether a message is **safe or phishing**.
 
 ### Backend API (Flask)
@@ -102,10 +101,10 @@ The **React.js (Next.js) Web Interface** allows users to input an SMS message an
 For more details, check out our presentation: [DefendSMS Presentation](https://bit.ly/DefendSMS)
 
 ## Future Enhancements
-- **Fine-tuning transformer models further** for even better accuracy.
-- **Deploying the model to a cloud-based service** for scalability.
-- **Building a mobile app (React Native)** to enable SMS scanning on mobile devices.
-- **Integrating the system with email detection** for multi-channel phishing prevention.
+- **Use More Types of Data** 
+- **Real-Time Protection** 
+- **Support Different Languages** 
+- **Partner with Telecoms** 
 
 ![اكتشاف التصيد الاحتيالي ](GP.jpg)
 
