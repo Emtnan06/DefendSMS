@@ -107,7 +107,5 @@ For more details, check out our presentation: [DefendSMS Presentation](https://b
 - **Building a mobile app (React Native)** to enable SMS scanning on mobile devices.
 - **Integrating the system with email detection** for multi-channel phishing prevention.
 
-
-
-
+![اكتشاف التصيد الاحتيالي ](GP.jpg)
 
